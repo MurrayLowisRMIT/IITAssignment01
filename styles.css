@@ -1,44 +1,59 @@
 body {
 	background-color: #15202b;
 	color: #ffffff;
-	width: 60%;
 }
 
 h1 {
-	margin: 20px 120px;
+	margin: 20px 0% 20px 6%;
 	font-size: 60px;
-	font-family: sans-serif
+	font-family: sans-serif;
+	width: 60%;
 }
 
 h2 {
-	margin: 10px 150px 10px 140px;
+	margin: 10px 0% 10px 8%;
 	font-size: 40px;
-	font-family: sans-serif
+	font-family: sans-serif;
+	width: 60%;
 }
 
 h3 {
-	margin: 20px 150px 10px 160px;
+	margin: 20px 0% 10px 10%;
 	font-size: 35px;
-	font-family: sans-serif
+	font-family: sans-serif;
+	width: 60%;
 }
 
 h4 {
-	margin: 50px 150px 0px 100px;
+	margin: 50px 0% 0px 6%;
 	font-size: 40px;
-	font-family: sans-serif
+	font-family: sans-serif;
+	color: #ffffff;
+	width: 60%;
 }
 
 p {
-	margin: 5px 150px 10px 175px;
+	margin: 5px 0% 10px 12%;
 	font-size: 20px;
+	color: #cccccc;
+	width: 60%;
 }
 
 ul {
-	margin: 5px 150px 5px 175px;
+	margin: 5px % 5px 12%;
 	font-size: 30px;
+	color: #ffffff;
+	width: 60%;
 }
 
 dl {
-	margin: 5px 150px 5px 175px;
+	margin: 5px 0% 5px 12%;
 	font-size: 20px;
+	width: 60%;
+}
+
+img {
+	float: right;
+	width: 22%;
+	margin: 0px 0% 0px 2%;
 }
