@@ -45,6 +45,13 @@ dt {
 	width: 60%;
 }
 
+dd {
+	margin: 5px 0% 10px 12%;
+	font-size: 20px;
+	color: #cccccc;
+	width: 60%;
+}
+
 img {
 	float: right;
 	width: 24%;
