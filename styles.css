@@ -1,38 +1,49 @@
 body {
-	background-color: #0f1020;
+	background-color: #15202b;
 }
 
 h1 {
 	color: #ffffff;
 	margin: 20px 50px 30px 50px;
+	font-size: 60px;
+	font-family: sans-serif
 }
 
 h2 {
 	color: #ffffff;
 	margin: 20px 50px 30px 60px;
+	font-size: 40px;
+	font-family: sans-serif
 }
 
 h3 {
 	color: #ffffff;
 	margin: 20px 50px 30px 70px;
+	font-size: 35px;
+	font-family: sans-serif
 }
 
 h4 {
 	color: #ffffff;
 	margin: 20px 50px 30px 50px;
+	font-size: 40px;
+	font-family: sans-serif
 }
 
 p {
-	color: #ffffff;
+	color: #dddddd;
 	margin: 20px 50px 30px 70px;
+	font-size: 20px;
 }
 
 ul {
 	color: #ffffff;
 	margin: 20px 50px 30px 70px;
+	font-size: 20px;
 }
 
 dl {
 	color: #ffffff;
 	margin: 20px 50px 30px 70px;
+	font-size: 20px;
 }
