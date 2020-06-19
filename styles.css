@@ -4,46 +4,46 @@ body {
 
 h1 {
 	color: #ffffff;
-	margin: 20px 50px 30px 50px;
+	margin: 20px 50px;
 	font-size: 60px;
 	font-family: sans-serif
 }
 
 h2 {
 	color: #ffffff;
-	margin: 20px 50px 30px 60px;
+	margin: 10px 50px 10px 60px;
 	font-size: 40px;
 	font-family: sans-serif
 }
 
 h3 {
 	color: #ffffff;
-	margin: 20px 50px 30px 70px;
+	margin: 10px 50px 10px 70px;
 	font-size: 35px;
 	font-family: sans-serif
 }
 
 h4 {
 	color: #ffffff;
-	margin: 20px 50px 30px 50px;
+	margin: 20px 50px;
 	font-size: 40px;
 	font-family: sans-serif
 }
 
 p {
 	color: #dddddd;
-	margin: 20px 50px 30px 70px;
+	margin: 5px 50px 10px 70px;
 	font-size: 20px;
 }
 
 ul {
 	color: #ffffff;
-	margin: 20px 50px 30px 70px;
+	margin: 5px 50px 5px 70px;
 	font-size: 20px;
 }
 
 dl {
 	color: #ffffff;
-	margin: 20px 50px 30px 70px;
+	margin: 5px 50px 5px 70px;
 	font-size: 20px;
 }
