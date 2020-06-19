@@ -39,13 +39,6 @@ p {
 	width: 60%;
 }
 
-ul {
-	margin: 5px % 5px 12%;
-	font-size: 30px;
-	color: #ffffff;
-	width: 60%;
-}
-
 dl {
 	margin: 5px 0% 5px 12%;
 	font-size: 20px;
@@ -54,6 +47,6 @@ dl {
 
 img {
 	float: right;
-	width: 22%;
+	width: 26%;
 	margin: 0px 0% 0px 2%;
 }
